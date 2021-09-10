@@ -1,2 +1,3 @@
 # hello-world
-the beginning of the beginning
+the beginning of the be!ginning
+Hi
